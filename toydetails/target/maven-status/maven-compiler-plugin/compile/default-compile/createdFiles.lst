@@ -1,0 +1,16 @@
+com/kidzoo/toydetails/client/InventoryClient.class
+com/kidzoo/toydetails/ToydetailsApplication.class
+com/kidzoo/toydetails/configuration/SwaggerConfiguration.class
+com/kidzoo/toydetails/configuration/ApiMetaOverride.class
+com/kidzoo/toydetails/model/response/ToyStatusById.class
+com/kidzoo/toydetails/common/CommonMethods.class
+com/kidzoo/toydetails/client/entity/ToyDetailsEntity.class
+com/kidzoo/toydetails/client/ToyDetailsClient.class
+com/kidzoo/toydetails/model/response/ToyDetails.class
+com/kidzoo/toydetails/controller/ToyDetailsController.class
+com/kidzoo/toydetails/exception/Error.class
+com/kidzoo/toydetails/exception/ToyDetailsErrorHandler.class
+com/kidzoo/toydetails/model/response/ToyDetailsResponse.class
+com/kidzoo/toydetails/dao/ToyDetailsDAO.class
+com/kidzoo/toydetails/exception/ToyDetailsCustomException.class
+com/kidzoo/toydetails/service/ToyDetailsServiceImpl.class

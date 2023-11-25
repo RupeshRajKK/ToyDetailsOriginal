@@ -1,0 +1,16 @@
+/Users/mac/IntelijProjects/toydetails/src/main/java/com/kidzoo/toydetails/configuration/SwaggerConfiguration.java
+/Users/mac/IntelijProjects/toydetails/src/main/java/com/kidzoo/toydetails/client/InventoryClient.java
+/Users/mac/IntelijProjects/toydetails/src/main/java/com/kidzoo/toydetails/model/response/ToyDetailsResponse.java
+/Users/mac/IntelijProjects/toydetails/src/main/java/com/kidzoo/toydetails/model/response/ToyStatusById.java
+/Users/mac/IntelijProjects/toydetails/src/main/java/com/kidzoo/toydetails/ToydetailsApplication.java
+/Users/mac/IntelijProjects/toydetails/src/main/java/com/kidzoo/toydetails/client/ToyDetailsClient.java
+/Users/mac/IntelijProjects/toydetails/src/main/java/com/kidzoo/toydetails/dao/ToyDetailsDAO.java
+/Users/mac/IntelijProjects/toydetails/src/main/java/com/kidzoo/toydetails/client/entity/ToyDetailsEntity.java
+/Users/mac/IntelijProjects/toydetails/src/main/java/com/kidzoo/toydetails/service/ToyDetailsServiceImpl.java
+/Users/mac/IntelijProjects/toydetails/src/main/java/com/kidzoo/toydetails/exception/ToyDetailsErrorHandler.java
+/Users/mac/IntelijProjects/toydetails/src/main/java/com/kidzoo/toydetails/exception/ToyDetailsCustomException.java
+/Users/mac/IntelijProjects/toydetails/src/main/java/com/kidzoo/toydetails/common/CommonMethods.java
+/Users/mac/IntelijProjects/toydetails/src/main/java/com/kidzoo/toydetails/exception/Error.java
+/Users/mac/IntelijProjects/toydetails/src/main/java/com/kidzoo/toydetails/model/response/ToyDetails.java
+/Users/mac/IntelijProjects/toydetails/src/main/java/com/kidzoo/toydetails/configuration/ApiMetaOverride.java
+/Users/mac/IntelijProjects/toydetails/src/main/java/com/kidzoo/toydetails/controller/ToyDetailsController.java

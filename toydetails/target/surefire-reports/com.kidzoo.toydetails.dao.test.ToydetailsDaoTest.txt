@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kidzoo.toydetails.dao.test.ToydetailsDaoTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.214 s - in com.kidzoo.toydetails.dao.test.ToydetailsDaoTest
